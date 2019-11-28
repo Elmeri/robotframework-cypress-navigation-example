@@ -1,4 +1,4 @@
-# Robotframework-cypress-navigation-example.robot
+# Robotframework-cypress-navigation-example
 Cypress navigation example done with robotframework + seleniumlibrary combination in order to do side by side comparison.
 
 ## Installation
